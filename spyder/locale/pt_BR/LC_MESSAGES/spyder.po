@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-12-11 12:38-0500\n"
-"PO-Revision-Date: 2020-12-11 17:47\n"
+"PO-Revision-Date: 2020-12-11 18:34\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "MIME-Version: 1.0\n"
@@ -726,7 +726,7 @@ msgstr "Para executar o passeio, por favor pressione o botão verde à esquerda 
 
 #: spyder/app/tour.py:1432
 msgid "Check out our interactive tour to explore some of Spyder's panes and features."
-msgstr ""
+msgstr "Confira o nosso tour interativo para explorar alguns recursos e painéis do Spyder."
 
 #: spyder/app/tour.py:1446
 msgid "Start tour"
@@ -970,7 +970,7 @@ msgstr "Kernels do Jupyter para o console Spyder"
 
 #: spyder/dependencies.py:226
 msgid "Compute distances between strings"
-msgstr ""
+msgstr "Calcular distâncias entre strings"
 
 #: spyder/dependencies.py:230
 msgid "3-way merge algorithm to merge document changes"
@@ -1342,7 +1342,7 @@ msgstr "O padrão é 79"
 
 #: spyder/plugins/completion/languageserver/confpage.py:216
 msgid "Show vertical line at that length"
-msgstr ""
+msgstr "Exibe linha vertical com esse comprimento"
 
 #: spyder/plugins/completion/languageserver/confpage.py:239
 msgid "Code style"
@@ -1350,7 +1350,7 @@ msgstr "Estilo do código"
 
 #: spyder/plugins/completion/languageserver/confpage.py:247
 msgid "Line length"
-msgstr ""
+msgstr "Comprimento da linha"
 
 #: spyder/plugins/completion/languageserver/confpage.py:264
 msgid "Spyder can use {0}, {1} or {2} to format your code for conformance to the {3} convention."
@@ -1542,7 +1542,7 @@ msgstr "Introspecção"
 
 #: spyder/plugins/completion/languageserver/confpage.py:633
 msgid "Code style and formatting"
-msgstr ""
+msgstr "Estilo e formatação de código"
 
 #: spyder/plugins/completion/languageserver/confpage.py:635
 msgid "Docstring style"
@@ -3364,7 +3364,7 @@ msgstr "Exibir data de modificação"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1798
 msgid "Filter filenames"
-msgstr ""
+msgstr "Filtrar nomes de arquivo"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:113
 msgid "Browse..."
@@ -4169,7 +4169,7 @@ msgstr "Não existe um console IPython para ser executado <b>{}</b>.<br><br>Por 
 
 #: spyder/plugins/ipythonconsole/plugin.py:907
 msgid "Your Python environment or installation doesn't have the <tt>spyder-kernels</tt> module or the right version of it installed (>= 1.10.0 and < 1.11.0). Without this module is not possible for Spyder to create a console for you.<br><br>You can install it by running in a system terminal:<br><br><tt>conda install spyder-kernels</tt><br><br>or<br><br><tt>pip install spyder-kernels</tt>"
-msgstr ""
+msgstr "Seu ambiente ou instalação do Python não possui o módulo <tt>spyder-kernels</tt> ou sua versão correta instalada (>= 1.10.0 e < 1.11.0). Sem este módulo, o Spyder não poderá criar um console para você.<br><br>Você poderá instalá-lo executando em um terminal do sistema:<br><br><tt>conda install spyder-kernels</tt><br><br>ou<br><br><tt>pip install spyder-kernels</tt>"
 
 #: spyder/plugins/ipythonconsole/plugin.py:1203
 msgid "Do you want to close this console?"
@@ -4375,7 +4375,7 @@ msgstr "Um erro ocorreu, veja o console."
 
 #: spyder/plugins/ipythonconsole/widgets/namespacebrowser.py:95
 msgid "The comm channel is not working."
-msgstr ""
+msgstr "O canal de comunicação não está funcionando."
 
 #: spyder/plugins/ipythonconsole/widgets/namespacebrowser.py:96
 msgid "%s.<br><br>Note: Please don't report this problem on Github, there's nothing to do about it."
@@ -4403,27 +4403,27 @@ msgstr "Os dados são grandes demais para serem salvos"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:36
 msgid "Keep Existing Kernels"
-msgstr ""
+msgstr "Manter os kernels existentes"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:37
 msgid "Restart Current Kernel"
-msgstr ""
+msgstr "Reiniciar o kernel atual"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:38
 msgid "Restart All Kernels"
-msgstr ""
+msgstr "Reiniciar todos os kernels"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:43
 msgid "By default, some IPython console preferences will be applied to new consoles only. To apply preferences to existing consoles, select from the options below.<br><br>Please note: applying changes to running consoles will force a kernel restart and all current work will be lost."
-msgstr ""
+msgstr "Por padrão, algumas preferências do console IPython serão aplicadas somente nos novos consoles. Para aplicar as preferências aos consoles existentes, selecione a partir das opções a seguir.<br><br>Note que a aplicação das mudanças aos consoles existentes irá forçar uma reinicialização do kernel e todo o trabalho atual será perdido."
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:54
 msgid "Apply to current console and restart kernel"
-msgstr ""
+msgstr "Aplicar ao console atual e reiniciar o kernel"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:56
 msgid "Apply to all existing consoles and restart all kernels"
-msgstr ""
+msgstr "Aplicar a todos os consoles existentes e reiniciar todos os kernels"
 
 #: spyder/plugins/ipythonconsole/widgets/shell.py:453
 msgid "All user-defined variables will be removed. Are you sure you want to proceed?"
