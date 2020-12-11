@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-12-11 12:38-0500\n"
-"PO-Revision-Date: 2020-12-11 22:57\n"
+"PO-Revision-Date: 2020-12-11 23:08\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -4152,7 +4152,7 @@ msgstr "没有可用的IPython控制台用于运行 <b>{}</b>.<br><br>请新建�
 
 #: spyder/plugins/ipythonconsole/plugin.py:907
 msgid "Your Python environment or installation doesn't have the <tt>spyder-kernels</tt> module or the right version of it installed (>= 1.10.0 and < 1.11.0). Without this module is not possible for Spyder to create a console for you.<br><br>You can install it by running in a system terminal:<br><br><tt>conda install spyder-kernels</tt><br><br>or<br><br><tt>pip install spyder-kernels</tt>"
-msgstr ""
+msgstr "你的 Python 环境或安装没有 <tt>spyder-kernels</tt> 模块或没有安装正确的版本 (>= 1.10.0 且 < 1.11.0)。 没有此模块则 Spyder 将无法为你创建控制台。<br><br>你可以在系统终端运行下列命令来安装它:<br><br><tt>conda install spyder-kernels</tt><br><br>或者<br><br><tt>pip install spyder-kernels</tt>"
 
 #: spyder/plugins/ipythonconsole/plugin.py:1203
 msgid "Do you want to close this console?"
@@ -4358,7 +4358,7 @@ msgstr "发生了错误，请查看控制台。"
 
 #: spyder/plugins/ipythonconsole/widgets/namespacebrowser.py:95
 msgid "The comm channel is not working."
-msgstr ""
+msgstr "comm 频道未正常工作。"
 
 #: spyder/plugins/ipythonconsole/widgets/namespacebrowser.py:96
 msgid "%s.<br><br>Note: Please don't report this problem on Github, there's nothing to do about it."
@@ -4386,27 +4386,27 @@ msgstr "数据太大，无法保存"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:36
 msgid "Keep Existing Kernels"
-msgstr ""
+msgstr "保持现有内核"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:37
 msgid "Restart Current Kernel"
-msgstr ""
+msgstr "重启当前内核"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:38
 msgid "Restart All Kernels"
-msgstr ""
+msgstr "重启所有内核"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:43
 msgid "By default, some IPython console preferences will be applied to new consoles only. To apply preferences to existing consoles, select from the options below.<br><br>Please note: applying changes to running consoles will force a kernel restart and all current work will be lost."
-msgstr ""
+msgstr "默认情况下，某些 IPython 控制台首选项将仅应用于新建控制台。 要将首选项应用于现有控制台，请从下面的选项中选择。<br><br>请注意：对正在运行的控制台应用更改将强制重启内核且当前的所有工作都将丢失。"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:54
 msgid "Apply to current console and restart kernel"
-msgstr ""
+msgstr "应用到当前控制台并重启内核"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:56
 msgid "Apply to all existing consoles and restart all kernels"
-msgstr ""
+msgstr "应用到现有的全部控制台并重启内核"
 
 #: spyder/plugins/ipythonconsole/widgets/shell.py:453
 msgid "All user-defined variables will be removed. Are you sure you want to proceed?"
