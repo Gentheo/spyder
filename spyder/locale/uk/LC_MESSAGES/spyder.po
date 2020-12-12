@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-12-11 12:38-0500\n"
-"PO-Revision-Date: 2020-12-11 17:47\n"
+"PO-Revision-Date: 2020-12-12 19:58\n"
 "Last-Translator: \n"
 "Language-Team: Ukrainian\n"
 "MIME-Version: 1.0\n"
@@ -517,19 +517,19 @@ msgstr ""
 
 #: spyder/app/mainwindow.py:3308
 msgid "New Spyder version"
-msgstr ""
+msgstr "Нова версія Spyder"
 
 #: spyder/app/mainwindow.py:3309
 msgid "Check for updates at startup"
-msgstr ""
+msgstr "Перевіряти наявність оновлень при запуску"
 
 #: spyder/app/mainwindow.py:3326
 msgid "<b>Spyder {} is available!</b><br><br>"
-msgstr ""
+msgstr "<b>Spyder {} тепер доступний!</b><br><br>"
 
 #: spyder/app/mainwindow.py:3328
 msgid "For more information visit our <a href=\"{}\">installation guide</a>."
-msgstr ""
+msgstr "Для отримання додаткової інформації відвідайте нашу <a href=\"{}\">інструкцію із встановлення</a>."
 
 #: spyder/app/mainwindow.py:3333
 msgid "<b>Important note:</b> Since you installed Spyder with Anaconda, please <b>don't</b> use <code>pip</code> to update it as that will break your installation.<br><br>Instead, run the following commands in a terminal:<br><code>conda update anaconda</code><br><code>conda install spyder={}</code><br><br>"
@@ -591,7 +591,7 @@ msgstr "Перезавантаження"
 
 #: spyder/app/tour.py:149
 msgid "Welcome to the introduction tour!"
-msgstr ""
+msgstr "Ласкаво просимо до вступного туру!"
 
 #: spyder/app/tour.py:150
 msgid "<b>Spyder</b> is a powerful Interactive Development Environment (or IDE) for the Python programming language.<br><br>Here, we are going to guide you through its most important features.<br><br>Please use the arrow keys or click on the buttons below to move along the tour."
@@ -631,7 +631,7 @@ msgstr ""
 
 #: spyder/app/tour.py:222 spyder/plugins/plots/plugin.py:133
 msgid "Plots"
-msgstr ""
+msgstr "Діаграми"
 
 #: spyder/app/tour.py:223
 msgid "This pane shows the figures and images created during your code execution. It allows you to browse, zoom, copy, and save the generated plots."
@@ -647,7 +647,7 @@ msgstr ""
 
 #: spyder/app/tour.py:243
 msgid "History Log"
-msgstr ""
+msgstr "Журнал історії"
 
 #: spyder/app/tour.py:244
 msgid "This pane records all the commands and code run in any IPython console, allowing you to easily retrace your steps for reproducible research."
@@ -679,7 +679,7 @@ msgstr ""
 
 #: spyder/app/tour.py:273
 msgid "The end"
-msgstr ""
+msgstr "Кінець"
 
 #: spyder/app/tour.py:274
 msgid "You have reached the end of our tour and are ready to start using Spyder! For more information, check out our <a href=\"{}\">documentation</a>.<br><br>"
@@ -715,7 +715,7 @@ msgstr "Перейти до кроку: "
 
 #: spyder/app/tour.py:1258
 msgid "Request"
-msgstr ""
+msgstr "Запит"
 
 #: spyder/app/tour.py:1259
 msgid "To run the tour, please press the green button on the left of the Spyder window's title bar to take it out of fullscreen mode."
