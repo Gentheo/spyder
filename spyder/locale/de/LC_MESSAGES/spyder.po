@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-12-11 12:38-0500\n"
-"PO-Revision-Date: 2020-12-11 17:47\n"
+"PO-Revision-Date: 2020-12-12 13:02\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -1352,7 +1352,7 @@ msgstr "Code-Stil"
 
 #: spyder/plugins/completion/languageserver/confpage.py:247
 msgid "Line length"
-msgstr ""
+msgstr "Zeilenlänge"
 
 #: spyder/plugins/completion/languageserver/confpage.py:264
 msgid "Spyder can use {0}, {1} or {2} to format your code for conformance to the {3} convention."
@@ -1544,7 +1544,7 @@ msgstr "Introspektion"
 
 #: spyder/plugins/completion/languageserver/confpage.py:633
 msgid "Code style and formatting"
-msgstr ""
+msgstr "Codestil und Formatierung"
 
 #: spyder/plugins/completion/languageserver/confpage.py:635
 msgid "Docstring style"
@@ -3368,7 +3368,7 @@ msgstr "Änderungsdatum anzeigen"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1798
 msgid "Filter filenames"
-msgstr ""
+msgstr "Dateinamen filtern"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:113
 msgid "Browse..."
